@@ -1,1 +1,0 @@
-# nucleotide_diversity_analysis
